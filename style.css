@@ -20,5 +20,17 @@ h1 {
 
 .lead {
     color: white;
-    font-size: 2.23rem;
+    font-size: 2.2rem;
+}
+
+.drop-shadow {
+    text-shadow: 0rem 2rem 2rem rgba(0, 0, 0, 0.158);
+}
+
+.btn-outline-light {
+    border-color: white;
+}
+
+.btn-outline-light:hover {
+    background-color: rgba(255, 255, 255, 0.212);
 }
